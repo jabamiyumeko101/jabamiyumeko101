@@ -5,9 +5,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1200&color=FF66C4&center=true&vCenter=true&width=650&lines=Engineering+Student;Learning+Full+Stack+Development;Building+Creative+Projects;Always+Learning+Something+New" />
 
-<p>
-Building clean code and beautiful interfaces.
-</p>
+<p><i>Building clean code and beautiful interfaces.</i></p>
 
 <img src="https://komarev.com/ghpvc/?username=jabamiyumeko101&label=Profile%20Views&color=FF66C4&style=for-the-badge"/>
 
@@ -19,12 +17,12 @@ Building clean code and beautiful interfaces.
 
 I'm an engineering student exploring software development through real projects and continuous learning.
 
-- ✨ Aspiring Software Developer 
+- ✨ Aspiring Software Developer
 - 🌱 Learning Full Stack Development
 - 💻 Building personal projects
 - 🎨 Interested in UI design and web experiences
 - ✍️ Story writer and creative thinker
-- 📖Omniscient reader
+- 📖 Omniscient Reader
 
 ---
 
@@ -32,31 +30,27 @@ I'm an engineering student exploring software development through real projects 
 
 ### Languages
 
-<p align="left">
+<div align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css" />
-</p>
+</div>
 
 ### Tools & Platforms
 
-<p align="left">
+<div align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,supabase,mysql,windows" />
-</p>
+</div>
 
 ### Currently Learning
 
-<p align="left">
+<div align="center">
 <img src="https://skillicons.dev/icons?i=react,postgres" />
-</p>
+</div>
 
 ---
 
-## GitHub Analytics
-
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=jabamiyumeko101&show_icons=true&theme=radical&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jabamiyumeko101&layout=compact&theme=radical&hide_border=true"/>
+> *"Every expert was once a beginner who kept showing up."*
 
 </div>
 
@@ -72,21 +66,14 @@ I'm an engineering student exploring software development through real projects 
 
 ---
 
-## GitHub Trophies
+## Core Strengths
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=jabamiyumeko101&theme=radical&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
-## Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jabamiyumeko101&theme=react-dark&hide_border=true"/>
+<img src="https://img.shields.io/badge/Clean%20Code-FF66C4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Problem%20Solving-C77DFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UI%20Design-9D4EDD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Continuous%20Learning-6E56CF?style=for-the-badge"/>
 
 </div>
 
@@ -96,11 +83,11 @@ I'm an engineering student exploring software development through real projects 
 
 ### 🌿 Komorebi
 
-A web project currently being built.
+> A web project currently in development.
 
 ### 💙 BLshipsSanctuary
 
-A creative website made for fun with a clean aesthetic design.
+> A creative website built for fun with a clean aesthetic design.
 
 ---
 
@@ -116,7 +103,7 @@ A creative website made for fun with a clean aesthetic design.
 
 <div align="center">
 
-Thanks for visiting!
+### Thanks for stopping by! 💖
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF66C4&height=120&section=footer"/>
 
